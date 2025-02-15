@@ -17,7 +17,7 @@ go run main.go
 Access the time endpoint:
 
 ```http
-GET http://localhost:8080/time?timezone=Asia/Kolkata
+GET http://localhost:8080/time?timezone=Asia/Yekaterinburg
 ```
 
 ## Example Response
